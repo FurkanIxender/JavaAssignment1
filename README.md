@@ -1,4 +1,4 @@
-# Participant Information System
+# Assigment 1
 
 ## Description
 This repo includes the 4 tasks given in the first assigments in order, first task is calculating the volume of the
